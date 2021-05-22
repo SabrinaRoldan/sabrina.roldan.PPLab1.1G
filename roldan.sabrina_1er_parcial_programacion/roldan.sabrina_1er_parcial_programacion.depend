@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1621557492 source:c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\categoria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"categoria.h"
+
+1621639797 source:c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"roldan.h"
+
+1621636473 c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\cliente.h
+	"localidad.h"
+
+1621030133 source:c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\fecha.c
+	"fecha.h"
+
+1621030106 c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\fecha.h
+
+1621635336 source:c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"categoria.h"
+	"localidad.h"
+
+1621643757 source:c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"roldan.h"
+	"categoria.h"
+	"cliente.h"
+	"alquileres.h"
+	"juego.h"
+	"informes.h"
+
+1621467414 source:c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\roldan.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"roldan.h"
+
+1621466440 c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\roldan.h
+
+1621641174 source:c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"roldan.h"
+	"fecha.h"
+	"alquileres.h"
+	"cliente.h"
+	"juego.h"
+
+1621636377 c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\alquileres.h
+	"fecha.h"
+	"cliente.h"
+	"juego.h"
+
+1621571617 c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\categoria.h
+
+1621571540 c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\juego.h
+	"categoria.h"
+
+1621474140 c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\datawarehouse.h
+
+1621636608 source:c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\localidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"localidad.h"
+
+1621634733 c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\localidad.h
+
+1621644371 source:c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"categoria.h"
+	"cliente.h"
+	"alquileres.h"
+	"roldan.h"
+	"informes.h"
+
+1621641596 c:\users\usuario\desktop\utn\roldan.sabrina_1er_parcial_programacion\informes.h
+
